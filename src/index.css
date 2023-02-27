@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.l-active {
+  font-weight: 700;
+}
+body {
+  background-color: rgb(15, 15, 15);
+  font-family: "Roboto", sans-serif;
+}
+.box-shadow {
+  box-shadow: #b9b9b9 0px 0px 20px -3px;
+}
